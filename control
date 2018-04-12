@@ -1,0 +1,9 @@
+Package: com.itweak.anydmg
+Name: anydmg
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: enable customised DeveloperDiskImage.dmg
+Maintainer: d0r4emon
+Author: d0r4emon
+Section: Tweaks
